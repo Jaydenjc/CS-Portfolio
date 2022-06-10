@@ -1,6 +1,6 @@
 # Test
-- This is a computer science/information systems portfolio, where various programming languages 
-- are displayed such as HTML, JavaScript, Java, Python and SQL. 
+- This is a computer science/information systems portfolio, where various programming languages are displayed such as 
+- HTML, JavaScript, Java, Python and SQL. 
 - In addition to progamming langues, UI design mockups, user stories and other information system design elements are displayed.
 
 SupportingCulture: 
