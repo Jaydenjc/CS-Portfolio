@@ -9,6 +9,16 @@
                  a slide show of important facts, a quote from a leader in social justice advocacy, examples real people being wrongfully 
                  convicted and serving time, links to educaitonal resources and a donate pop-up.
      
+**CS380 Projects:** 
+  - Programming language: PHP, HTML, JavaScript, CSS
+  - Description: Website that links to many projects I worked on in my web-application development course. A5 is a continuation of A3 and A4 that invloves                  demonstrate numerous front-end development concepts and methods, suhc as HTML and SQL injection, pulling and manipulating data from SQL,                    running sessions to track user login and activity, and more.
+  - Link to active homepage: http://webdev.bentley.edu/jcooper/
+  
+  
+**SimpleCalculator:** 
+  - Programming language: Java through Android Studios
+  - Description: Calculator for a mobile android applicaiton.
+         
 **ColorPicker:**
   - Programming Language: Swift
   - Description: iOS app that allows you to use has color labeled sliders that when adjusted, color changes are made to the corresponding game controller                   symbol.
