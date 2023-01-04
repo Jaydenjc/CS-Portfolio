@@ -4,7 +4,7 @@
 - In addition to progamming langues, UI design mockups, user stories and other information system design elements are displayed.
 
 **SupportingCulture:** 
-  - Programming language: HTML
+  - Programming language: HTML, JavaScript, CSS
   - Description: Website that spreads awareness on wrongful convictions and imprisonments in our criminal justice system. The website contains
                  a slide show of important facts, a quote from a leader in social justice advocacy, examples real people being wrongfully 
                  convicted and serving time, links to educaitonal resources and a donate pop-up.
