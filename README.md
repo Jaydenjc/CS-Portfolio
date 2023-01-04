@@ -11,7 +11,7 @@
      
 **CS380 Projects:** 
   - Programming language: PHP, HTML, JavaScript, CSS
-  - Description: Website that links to many projects I worked on in my web-application development course. A5 is a continuation of A3 and A4 that involves                  demonstrating numerous front-end development concepts and methods, suhc as HTML and SQL injection, pulling and manipulating data from SQL,                    running sessions to track user login and activity, and more.
+  - Description: Website that links to many projects I worked on in my web-application development course. A5 is a continuation of A3 and A4 that involves                  demonstrating numerous front-end development concepts and methods, such as HTML and SQL injection, pulling and manipulating data from SQL,                    running sessions to track user login and activity, and more.
   - Link to active homepage: http://webdev.bentley.edu/jcooper
   - A5 is a tech support company website. It provides users, depending on if you are a customer, admin, or technician, the option to login and perform         specific tasks only available to them
   - For demoing purposes in 'A5' menu tab, customer login: username: kelly@example.com, pw: sesame |
