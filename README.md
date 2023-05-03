@@ -1,7 +1,13 @@
 # Jayden Cooper CS Portfolio
 - This is a computer science/information systems portfolio, where various programming languages are displayed such as 
-- PHP, HTML, JavaScript, Java, Swift, Python, and MySQL. 
+- PHP, HTML, JavaScript, Java, SwiftUI, Python, and MySQL. 
 - In addition to progamming langues, UI design mockups, user stories and other information system design elements are displayed.
+
+**Bentley Webpages:** 
+  - Content Management System: Drupal
+  - Description: Links to sites I developed for Bentley University on bentley.edu..
+  - Links: https://www.bentley.edu/centers/trading-room , https://www.bentley.edu/university-life/campus-life/sga , 
+           https://www.bentley.edu/university-life/campus-life/sgaaccomplishments
 
 **SupportingCulture:** 
   - Programming language: HTML, JavaScript, CSS
