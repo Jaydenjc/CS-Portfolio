@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">PracticeCalculator</string>
+    <string name="app_name">CS480_Assignment2</string>
+    <string name="title_activity_gmaps_a2">GMapsActivityA2</string>
 </resources>

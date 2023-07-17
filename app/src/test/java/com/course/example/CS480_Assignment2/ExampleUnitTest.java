@@ -1,4 +1,4 @@
-package com.course.example.practicecalculator;
+package com.course.example.CS480_Assignment2;
 
 import org.junit.Test;
 
