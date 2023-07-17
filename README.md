@@ -24,7 +24,7 @@
                           admin login:  username: admin, pw: sesame|
                           technician login: username: alison@sportspro.com, pw: sesame
 
-**StudentHub:** 
+**StudentHub:** (on StudentHub branch)
   - Developed a University Student Hub with a Google Maps API for highlighting nearby Universities, a resource section for nearby landmarks, restaurants, as well as general educational resources and Google search capability
                         
   
