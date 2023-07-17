@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/restaurantGuide"
+            android:title="Restaurants"
+            android:background="@color/purple_200"/>
+
+
+        <item
+            android:id="@+id/sightseeing"
+            android:title="Sightseeing" />
+
+        <item
+            android:id="@+id/renting"
+            android:title="Public Transportation"
+            android:background="@color/purple_200"/>
+
+        <item
+            android:id="@+id/transport"
+            android:title="Off-Campus Housing" />
+
+        <item
+            android:id="@+id/library"
+            android:title="USF Library Resource Guide"
+            android:background="@color/purple_200"/>
+
+</menu>
