@@ -5,7 +5,7 @@
 
 **Bentley Webpages:** 
   - Content Management System: Drupal
-  - Description: Links to sites I developed for Bentley University on bentley.edu..
+  - Description: Links to sites I developed for Bentley University on bentley.edu
   - Links: https://www.bentley.edu/centers/trading-room , https://www.bentley.edu/university-life/campus-life/sga , 
            https://www.bentley.edu/university-life/campus-life/sgaaccomplishments
 
@@ -23,6 +23,9 @@
   - For demoing purposes in 'A5' menu tab, customer login: username: kelly@example.com, pw: sesame |
                           admin login:  username: admin, pw: sesame|
                           technician login: username: alison@sportspro.com, pw: sesame
+
+**StudentHub:** 
+  - Developed a University Student Hub with a Google Maps API for highlighting nearby Universities, a resource section for nearby landmarks, restaurants, as well as general educational resources and Google search capability
                         
   
   
