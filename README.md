@@ -3,6 +3,19 @@
 - PHP, HTML, JavaScript, Java, SwiftUI, Python, and MySQL. 
 - In addition to progamming langues, UI design mockups, user stories and other information system design elements are displayed.
 
+**Tech Support:** (on TechSupport branch)
+  - Developed a Tech Support web app that involved session tracking of different authenticated users, injection prevention with HTML and SQL, and accessed/manipulated data from SQL
+  - Expected users: customer, admin, technician
+  - For demoing purposes, customer login: username: kelly@example.com, pw: sesame 
+                          admin login:  username: admin, pw: sesame
+                          technician login: username: alison@sportspro.com, pw: sesame
+
+**Tip Calculator:** (on TipCalculator branch)
+  - Developed an app thats takes the users input on bill amount, tip percent, and number of people. With that info, it displays bill total and amount to be paid by each person and tip amount
+
+**StudentHub:** (on StudentHub branch)
+  - Developed a University Student Hub with a Google Maps API for highlighting nearby Universities, a resource section for nearby landmarks, restaurants, as well as general educational resources and Google search capability
+                           
 **Bentley Webpages:** 
   - Content Management System: Drupal
   - Description: Links to sites I developed for Bentley University on bentley.edu
@@ -23,10 +36,6 @@
   - For demoing purposes in 'A5' menu tab, customer login: username: kelly@example.com, pw: sesame |
                           admin login:  username: admin, pw: sesame|
                           technician login: username: alison@sportspro.com, pw: sesame
-
-**StudentHub:** (on StudentHub branch)
-  - Developed a University Student Hub with a Google Maps API for highlighting nearby Universities, a resource section for nearby landmarks, restaurants, as well as general educational resources and Google search capability
-                        
   
   
 **SimpleCalculator:** 
